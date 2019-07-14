@@ -1,0 +1,5 @@
+1. Hay que redibujar el logo para pder hacerlo más grande siin pixelarse
+
+2. En sm el menú se desplega de manera muy rara
+
+3. Poner los íconos de redes sociales en la sección "contacto"
